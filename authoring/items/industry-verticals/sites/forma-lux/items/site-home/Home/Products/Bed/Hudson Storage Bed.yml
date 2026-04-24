@@ -1,0 +1,290 @@
+﻿---
+ID: "ded4d6e8-705c-4ead-a36a-cd82a712e92f"
+Parent: "16807766-6013-4944-9550-ebc3216ad248"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/Bed/Hudson Storage Bed"
+SharedFields:
+- ID: "4194f0b1-8aac-49c1-8e93-129877fe4c79"
+  Hint: Tags
+  Value: |
+    {831305F5-99B0-4746-B09A-42C67FE37EC5}
+    {AC473CFD-491E-4EB1-9D3D-AF5A1F63F10B}
+- ID: "58d111ab-b286-42ab-bb35-8daadd6ab480"
+  Hint: SKU
+  Value: BED0003
+- ID: "63c1b6e8-05bb-459d-ae43-a7d06951eb25"
+  Hint: ogImage
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79409-HomepagePromoCTAs-1100x740?v=cd26fce9" dam-id="WqigNgHRSc2gyo7cHWlZ_w" width="1100" height="740" alt="hudson-storage-bed-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79409/thumbnail" />
+- ID: "6d624193-14b5-4076-b1d6-b6cac9888298"
+  Hint: Color
+  Value: |
+    {4644FE16-10A7-44F1-8172-CA03C35A688D}
+    {12BF3FA0-8034-4629-814C-3E34BEE11474}
+- ID: "998ad31d-a023-4c69-8654-9b70de07a7f3"
+  Hint: Size
+  Value: |
+    {B8B93775-E47C-46F2-9157-293AA8904883}
+    {C593AA0B-B143-4FD4-B8F6-C8950FB744B0}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 562
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/2996a2050b464f3faf2faba8adcac824?v=711a7809" dam-id="WqigNgHRSc2gyo7cHWlZ_w" width="1536" height="1024" alt="hudson-storage-bed-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79409/thumbnail" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{02661BA8-95B0-4735-AE82-E622EC19A63C}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{16807766-6013-4944-9550-EBC3216AD248}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "973bfe4a-d831-414a-8d6e-403651d450e9"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{003AFC18-583E-4F99-BF30-F0974E1F8DBF}"
+          s:ds="381203f0-6ee1-4675-b043-c8d4ddbd6b86"
+          s:id="{E874A406-4977-443B-8AFE-690812AFB5EF}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Autoplay&amp;Loop&amp;HideAccentLine&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-productcontent/related-products-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130527Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: "Hudson Storage Bed | Forma Lux – Modern Bed with Built-In Storage Drawers"
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: "A modern bed with built-in storage drawers."
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: "Hudson Storage Bed, storage bed, modern bed design, walnut bed, engineered wood bed, space-saving furniture, bedroom storage, Forma Lux shop"
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1197
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hudson Storage Bed
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: "Discover the Hudson Storage Bed by Forma Lux – crafted from engineered wood with walnut veneer, featuring four spacious under-bed drawers for elegant, space-saving living."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c16c34b-a012-46c4-ba2c-9b15909e5456"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Hudson Storage Bed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260313T093310Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: "<p>The Hudson Storage Bed maximizes space with its four under-bed drawers. Crafted from engineered wood with a walnut veneer, it combines practicality with style. Ideal for apartments and compact bedrooms.</p>"
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Form meets function in the Hudson Storage Bed, a celebration of modern design for smaller spaces. Engineered from durable wood and finished in rich walnut, Hudson offers four hidden drawers that bring order without compromise. Available in Black or White, and in Medium or Large sizes, it exemplifies Forma Lux’s vision of contemporary craftsmanship—streamlined, smart, and enduringly beautiful.
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130527Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Cama con Almacenamiento Hudson | Forma Lux – Cama Moderna con Cajones de Almacenamiento Integrados
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Una cama moderna con cajones de almacenamiento integrados.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Cama con Almacenamiento Hudson, cama con almacenamiento, diseño de cama moderna, cama de nogal, cama de madera industrializada, muebles que ahorran espacio, almacenamiento en el dormitorio, tienda Forma Lux
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1197
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cama con Almacenamiento Hudson
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Descubre la Cama con Almacenamiento Hudson de Forma Lux – fabricada con madera industrializada con chapa de nogal, con cuatro espaciosos cajones debajo de la cama para una vida elegante y que ahorra espacio.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6616e5f8-10ba-4b08-8d92-3534962bfbf4"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Cama con Almacenamiento Hudson
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T104426Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>La Cama con Almacenamiento Hudson maximiza el espacio con sus cuatro cajones debajo de la cama. Fabricada con madera industrializada con chapa de nogal, combina practicidad con estilo. Ideal para apartamentos y dormitorios compactos.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: "La forma se une a la función en la Cama con Almacenamiento Hudson, una celebración del diseño moderno para espacios más pequeños. Fabricada con madera duradera y acabada en rico nogal, Hudson ofrece cuatro cajones ocultos que aportan orden sin comprometer. Disponible en Negro o Blanco, y en tamaños Mediano o Grande, ejemplifica la visión de Forma Lux de la artesanía contemporánea: elegante, inteligente y de belleza perdurable."
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130527Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Lit de rangement Hudson | Forma Lux – Lit moderne avec tiroirs de rangement intégrés
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Un lit moderne avec tiroirs de rangement intégrés.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Lit de rangement Hudson, lit de rangement, design de lit moderne, lit en noyer, lit en bois d'ingénierie, mobilier peu encombrant, rangement de chambre, boutique Forma Lux
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1197
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Lit de rangement Hudson
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Découvrez le lit de rangement Hudson par Forma Lux – fabriqué en bois d'ingénierie avec placage de noyer, doté de quatre tiroirs spacieux sous le lit pour un mode de vie élégant et peu encombrant.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8f0671a-0bc3-4fd0-ab28-b71909be2cbb"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Lit de rangement Hudson
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T110231Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Le lit de rangement Hudson maximise l'espace avec ses quatre tiroirs sous le lit. Fabriqué en bois d'ingénierie avec un placage de noyer, il allie praticité et style. Idéal pour les appartements et les chambres compactes.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: La forme rencontre la fonction dans le lit de rangement Hudson, une célébration du design moderne pour les petits espaces. Conçu en bois durable et fini en noyer riche, Hudson offre quatre tiroirs cachés qui apportent de l'ordre sans compromis. Disponible en noir ou blanc, et en tailles moyenne ou grande, il incarne la vision de Forma Lux de l'artisanat contemporain—élégant, intelligent et d'une beauté durable.
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130527Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Lit Hudson avec rangement | Forma Lux – Lit moderne avec tiroirs de rangement intégrés
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Un lit moderne avec tiroirs de rangement intégrés.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Lit Hudson avec rangement, lit avec rangement, design de lit moderne, lit en noyer, lit en bois d'ingénierie, mobilier peu encombrant, rangement de chambre, boutique Forma Lux
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1197
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Lit Hudson avec rangement
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Découvrez le lit Hudson avec rangement par Forma Lux – fabriqué en bois d'ingénierie avec placage en noyer, doté de quatre tiroirs spacieux sous le lit pour un habitat élégant et peu encombrant.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5eb8cce7-254e-4f0e-afcd-45925ff4c2ed"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Lit Hudson avec rangement
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T104107Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Le lit Hudson avec rangement maximise l'espace avec ses quatre tiroirs sous le lit. Fabriqué en bois d'ingénierie avec un placage en noyer, il allie praticité et style. Idéal pour les appartements et les chambres compactes.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: La forme rencontre la fonction dans le lit Hudson avec rangement, une célébration du design moderne pour les petits espaces. Conçu en bois durable et fini en riche noyer, Hudson offre quatre tiroirs cachés qui apportent de l'ordre sans compromis. Disponible en noir ou blanc, et en tailles moyenne ou grande, il incarne la vision de Forma Lux de l'artisanat contemporain—élégant, intelligent et d'une beauté durable.

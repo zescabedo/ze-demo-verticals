@@ -1,0 +1,292 @@
+﻿---
+ID: "620c4b27-d8d4-474a-a223-cf4f92cb34e4"
+Parent: "16807766-6013-4944-9550-ebc3216ad248"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/Bed/Aspen Bunk Bed"
+SharedFields:
+- ID: "4194f0b1-8aac-49c1-8e93-129877fe4c79"
+  Hint: Tags
+  Value: |
+    {831305F5-99B0-4746-B09A-42C67FE37EC5}
+    {AC473CFD-491E-4EB1-9D3D-AF5A1F63F10B}
+- ID: "58d111ab-b286-42ab-bb35-8daadd6ab480"
+  Hint: SKU
+  Value: BED0001
+- ID: "63c1b6e8-05bb-459d-ae43-a7d06951eb25"
+  Hint: ogImage
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79363-HomepagePromoCTAs-1100x740?v=166bc622" dam-id="v6LssTd4QcmFIYND3nogVQ" width="1100" height="740" alt="aspen-bed-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79363/thumbnail" />
+- ID: "6d624193-14b5-4076-b1d6-b6cac9888298"
+  Hint: Color
+  Value: |
+    {75E874D3-C7B4-466B-B9F1-F305D5B67E85}
+    {4644FE16-10A7-44F1-8172-CA03C35A688D}
+    {12BF3FA0-8034-4629-814C-3E34BEE11474}
+    {D5D801B9-21CD-426C-8573-0FFF36FE3317}
+- ID: "998ad31d-a023-4c69-8654-9b70de07a7f3"
+  Hint: Size
+  Value: |
+    {B214C2E5-3E1A-42B6-A0EE-CAB3CBC055E0}
+    {B8B93775-E47C-46F2-9157-293AA8904883}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/73087de9d7f74ecf9c39b90dc3b637d3?v=3d9f3ffe" dam-id="v6LssTd4QcmFIYND3nogVQ" width="1536" height="1024" alt="aspen-bed-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79363/thumbnail" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B1BCFFB9-E5D8-4F66-ACC6-8A12CBACDE6A}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{16807766-6013-4944-9550-EBC3216AD248}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e5e9abd6-2c0d-4ae9-88be-b853ffbdd803"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{DCE8D2F4-E403-4976-A87B-BE8B535A433D}"
+          s:ds="381203f0-6ee1-4675-b043-c8d4ddbd6b86"
+          s:id="{E874A406-4977-443B-8AFE-690812AFB5EF}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Autoplay&amp;Loop&amp;HideAccentLine&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-productcontent/related-products-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130300Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Aspen Bunk Bed | Forma Lux – Sturdy Wooden Bunk Bed for Kids’ Rooms
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: A sturdy wooden bunk bed perfect for kids’ rooms.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Aspen bunk bed, wooden bunk bed, kids room furniture, pine wood bed, luxury children’s furniture, shared bedroom furniture, Forma Lux shop
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 748.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Aspen Bunk Bed
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: "Discover the Aspen Bunk Bed by Forma Lux – a durable pine-wood design with natural finish, safety rails, and built-in ladder. The perfect blend of craftsmanship, safety, and timeless style for shared or guest bedrooms."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a46f220-4a33-4e92-adcc-cc3af0c46895"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Aspen Bunk Bed
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260313T093134Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: "<p>The Aspen Bunk Bed is crafted from durable pine wood and finished in a natural tone. With safety rails and a built-in ladder, it’s designed for both safety and style. Ideal for shared bedrooms or sleepovers.</p>"
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Built to last and crafted to inspire play and rest alike, the Aspen Bunk Bed embodies Forma Lux’s philosophy of thoughtful design for modern families. Each frame is shaped from solid pine, offering warm natural grain and dependable structure. Available in Indigo, Black, White, or Gold and in Small and Medium sizes, Aspen pairs function with elevated aesthetics—turning every kids’ room into a timeless, welcoming space that grows with them.
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130300Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Cama litera Aspen | Forma Lux – Robusta litera de madera para habitaciones infantiles
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Una robusta litera de madera perfecta para habitaciones infantiles.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Cama litera Aspen, litera de madera, muebles para habitaciones infantiles, cama de madera de pino, muebles de lujo para niños, muebles para habitaciones compartidas, tienda Forma Lux
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 748.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cama Litera Aspen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: "Descubre la Cama Litera Aspen de Forma Lux: un diseño duradero de madera de pino con acabado natural, barandillas de seguridad y escalera incorporada. La combinación perfecta de artesanía, seguridad y estilo atemporal para habitaciones compartidas o de invitados."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75554f7a-4038-4006-8829-3d6a41a95887"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Cama Litera Aspen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T104426Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>La Cama Litera Aspen está fabricada con madera de pino duradera y acabada en un tono natural. Con barandillas de seguridad y una escalera incorporada, está diseñada tanto para la seguridad como para el estilo. Ideal para habitaciones compartidas o pijamadas.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Construida para durar y diseñada para inspirar tanto el juego como el descanso, la Cama Litera Aspen encarna la filosofía de Forma Lux de diseño reflexivo para familias modernas. Cada estructura está formada de pino macizo, ofreciendo una cálida veta natural y una estructura confiable. Disponible en Indigo, Negro, Blanco o Dorado y en tamaños Pequeño y Mediano, Aspen combina funcionalidad con estética elevada, convirtiendo cada habitación infantil en un espacio atemporal y acogedor que crece con ellos.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130300Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Lit superposé Aspen | Forma Lux – Lit superposé en bois robuste pour chambres d'enfants
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Un lit superposé en bois robuste parfait pour les chambres d'enfants.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: lit superposé Aspen, lit superposé en bois, mobilier de chambre d'enfant, lit en bois de pin, mobilier de luxe pour enfants, mobilier de chambre partagée, boutique Forma Lux
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 748.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Lit superposé Aspen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Découvrez le lit superposé Aspen de Forma Lux – un design en bois de pin durable avec une finition naturelle, des barrières de sécurité et une échelle intégrée. Le parfait mélange d'artisanat, de sécurité et de style intemporel pour les chambres partagées ou d'amis.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cd9f29a-8d7e-4e08-a6f3-1f7eeae17282"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Lit superposé Aspen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T110231Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Le lit superposé Aspen est fabriqué en bois de pin durable et fini dans un ton naturel. Avec des barrières de sécurité et une échelle intégrée, il est conçu à la fois pour la sécurité et le style. Idéal pour les chambres partagées ou les soirées pyjama.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Conçu pour durer et fabriqué pour inspirer à la fois le jeu et le repos, le lit superposé Aspen incarne la philosophie de Forma Lux d'un design réfléchi pour les familles modernes. Chaque cadre est façonné à partir de pin massif, offrant un grain naturel chaleureux et une structure fiable. Disponible en Indigo, Noir, Blanc ou Or et en tailles Petite et Moyenne, Aspen associe fonctionnalité et esthétique élevée—transformant chaque chambre d'enfant en un espace intemporel et accueillant qui grandit avec eux.
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130300Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Lit superposé Aspen | Forma Lux – Lit superposé en bois robuste pour chambres d'enfants
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Un lit superposé en bois robuste parfait pour les chambres d'enfants.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Lit superposé Aspen, lit superposé en bois, mobilier de chambre d'enfant, lit en bois de pin, mobilier de luxe pour enfants, mobilier de chambre partagée, boutique Forma Lux
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 748.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Lit superposé Aspen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Découvrez le lit superposé Aspen de Forma Lux – un design en bois de pin durable avec une finition naturelle, des barrières de sécurité et une échelle intégrée. Le parfait mélange d'artisanat, de sécurité et de style intemporel pour les chambres partagées ou d'amis.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70ec6b66-8f1f-4501-b0ec-d67dfe3bf04e"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Lit superposé Aspen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T104107Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Le lit superposé Aspen est fabriqué en bois de pin durable et fini dans un ton naturel. Avec des barrières de sécurité et une échelle intégrée, il est conçu à la fois pour la sécurité et le style. Idéal pour les chambres partagées ou les soirées pyjama.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Conçu pour durer et fabriqué pour inspirer à la fois le jeu et le repos, le lit superposé Aspen incarne la philosophie de Forma Lux d'un design réfléchi pour les familles modernes. Chaque cadre est façonné à partir de pin massif, offrant un grain naturel chaleureux et une structure fiable. Disponible en Indigo, Noir, Blanc ou Or et en tailles Petite et Moyenne, Aspen associe fonctionnalité et esthétique élevée—transformant chaque chambre d'enfant en un espace intemporel et accueillant qui grandit avec eux.

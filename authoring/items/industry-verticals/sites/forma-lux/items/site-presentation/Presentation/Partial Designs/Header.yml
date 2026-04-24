@@ -1,0 +1,204 @@
+﻿---
+ID: "48bf1c48-f030-47b5-9951-5501da088d34"
+Parent: "ed8081d1-c204-4100-8e45-6064b6e8fd9d"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/industry-verticals/forma-lux/Presentation/Partial Designs/Header"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{1C2BA88C-07EA-4753-9123-23AAD9527B7D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2220ff40-bad6-4c1a-99b7-4688558b5588"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{179E4BB3-022A-4996-9809-08C6E19830C4}"
+          p:before="*"
+          s:ds="4075de39-7ea8-4653-b6e4-b10e30adc186"
+          s:id="{330F59E3-329C-4E5D-8A00-CF144B1E1A87}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Autoplay=1&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+          s:ph="headless-header" />
+        <r
+          uid="{1F84053F-B53A-4FAC-8ECE-C06D1A03B3F2}"
+          p:after="r[@uid='{179E4BB3-022A-4996-9809-08C6E19830C4}']"
+          s:id="{32138D34-7434-4CD1-BF7F-64DA1CEB8F33}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-header" />
+        <r
+          uid="{7848AF20-533F-462E-95F7-7D9BF2CD3C5A}"
+          p:after="r[@uid='{1F84053F-B53A-4FAC-8ECE-C06D1A03B3F2}']"
+          s:id="{7E5035BD-533A-4E84-A67B-9AA2BF964F21}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter=%7BE0A2A027-0932-4878-A7D6-0416D5263EFB%7D&amp;Flattened&amp;AddRoot&amp;RenderingIdentifier&amp;CSSStyles&amp;NavFilter=Breadcrumb%20Navigation&amp;NavigationFilter=Breadcrumb%20Navigation"
+          s:ph="headless-header" />
+        <r
+          uid="{2FF900ED-9106-4949-8ED0-E6A6EA82B06F}"
+          p:after="r[@uid='{7848AF20-533F-462E-95F7-7D9BF2CD3C5A}']"
+          s:ds="e03c6aa7-be0b-4ffc-8ebb-6db8fa58b5b4"
+          s:id="{95A4BE1D-049A-40E1-A9E8-9D90AEA233E7}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-header" />
+        <r
+          uid="{7B29F928-62B7-4C22-82B6-9B81488A5990}"
+          p:after="r[@uid='{2FF900ED-9106-4949-8ED0-E6A6EA82B06F}']"
+          s:ds="4e869961-efef-4b47-bb69-170a251d689b"
+          s:id="{9F65621E-1102-461C-BBEE-3FADCE8E0509}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BCFF73B2F-EC37-4A98-A032-154A8741FA50%7D&amp;Styles&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot=1&amp;SerializerFieldNames&amp;SimpleLayout&amp;Logo=%3CImage%20src%3D%22https%3A%2F%2Fstarter-verticals-2.sitecoresandbox.cloud%2Fapi%2Fpublic%2Fcontent%2Fe396484042124934a5d4e42d3919d4f4%3Fv%3D759210eb%22%20dam-id%3D%22BjmtfBn_QsuaXxnEkNc_MA%22%20width%3D%22139%22%20height%3D%2225%22%20alt%3D%22Forma%20Lux.svg%22%20dam-content-type%3D%22Image%22%20thumbnailsrc%3D%22https%3A%2F%2Fstarter-verticals-2.sitecoresandbox.cloud%2Fapi%2Fgateway%2F76710%2Fthumbnail%22%20%2F%3E&amp;RenderingIdentifier&amp;CSSStyles"
+          s:ph="/headless-header/header-nav-1" />
+        <r
+          uid="{AF7D44CF-5B1F-4D08-B346-A0BB3E08D156}"
+          p:after="r[@uid='{7B29F928-62B7-4C22-82B6-9B81488A5990}']"
+          s:id="{6C0D91D1-A92F-41BD-949B-423811202101}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-header/header-left-1" />
+        <r
+          uid="{E8C57B5B-EB79-4AF0-BBD4-BA850C81B1B2}"
+          p:after="*[1=2]"
+          s:ds="0e875c09-1c1a-4b22-9cc1-33e14b2c02cd"
+          s:id="{C56EFAE9-39E8-45EB-8B59-D4BF2B71914E}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;HideAccountIcon&amp;HideWishlistIcon=1&amp;HideCartIcon&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-header/header-right-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250827T095907Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57ba1b59-5a7e-49b3-a056-8137e1adf201"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260303T102845Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250910T130431Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "663ec001-976c-41b8-8d03-d61d24498c10"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T102527Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251219T104232Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dec2bc36-7d7c-4cbb-b2b9-20656d97a9ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20251219T104232Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260303T102845Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251217T110035Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1194242e-99bb-4efc-b976-28e0fa681ad0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\INIwVuCCf0fzziGGBdz0UepKJ8K6him7
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T210237Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250910T131235Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcf7dd74-816b-4ad4-8e3c-054a249a1c4c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260303T102845Z

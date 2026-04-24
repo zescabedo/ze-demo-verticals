@@ -1,0 +1,293 @@
+﻿---
+ID: "563949d5-9ce4-4bd3-927d-47189e6cac44"
+Parent: "8dd59d14-31a7-4b85-a547-77b03c68ac32"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/Chair/Milan Office Chair"
+SharedFields:
+- ID: "4194f0b1-8aac-49c1-8e93-129877fe4c79"
+  Hint: Tags
+  Value: |
+    {831305F5-99B0-4746-B09A-42C67FE37EC5}
+    {AC473CFD-491E-4EB1-9D3D-AF5A1F63F10B}
+    {AA1D2DC7-47CB-41BE-952D-F19B07B47154}
+- ID: "58d111ab-b286-42ab-bb35-8daadd6ab480"
+  Hint: SKU
+  Value: CHR0007
+- ID: "63c1b6e8-05bb-459d-ae43-a7d06951eb25"
+  Hint: ogImage
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/62ed734d5d7e4be4bfcd833e416c072e?v=7702ce2f" dam-id="v0gkvzcIQeWYawTXKe2Ovg" width="3000" height="3000" alt="milan-office-chair-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79483/thumbnail" />
+- ID: "6d624193-14b5-4076-b1d6-b6cac9888298"
+  Hint: Color
+  Value: |
+    {4644FE16-10A7-44F1-8172-CA03C35A688D}
+    {D5D801B9-21CD-426C-8573-0FFF36FE3317}
+    {12BF3FA0-8034-4629-814C-3E34BEE11474}
+- ID: "998ad31d-a023-4c69-8654-9b70de07a7f3"
+  Hint: Size
+  Value: |
+    {978D9183-8AD5-4000-8A7E-312A50B1E1B1}
+    {C593AA0B-B143-4FD4-B8F6-C8950FB744B0}
+    {B8B93775-E47C-46F2-9157-293AA8904883}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2284
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/62ed734d5d7e4be4bfcd833e416c072e?v=7702ce2f" dam-id="v0gkvzcIQeWYawTXKe2Ovg" width="3000" height="3000" alt="milan-office-chair-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79483/thumbnail" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{D93F94A4-8461-4B26-953C-B692E59382B9}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{8DD59D14-31A7-4B85-A547-77B03C68AC32}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3516ad64-eaba-4025-bc6a-a6da4a460e36"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EBB5A35B-6BB3-428D-B9F2-2D4308CEBD92}"
+          s:ds="381203f0-6ee1-4675-b043-c8d4ddbd6b86"
+          s:id="{E874A406-4977-443B-8AFE-690812AFB5EF}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Autoplay&amp;Loop&amp;HideAccentLine&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-productcontent/related-products-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125528Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Milan Office Chair | Forma Lux – Ergonomic Office Chair with Adjustable Design
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: A modern ergonomic office chair with adjustable features
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Milan Office Chair, ergonomic office chair, adjustable desk chair, modern workspace furniture, mesh office chair, Forma Lux shop, luxury office seating
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 229.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Milan Office Chair
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: The Milan Office Chair by Forma Lux merges ergonomic function with modern elegance. Adjustable height, tilt, and armrests deliver personalized comfort, while a breathable mesh back keeps you cool and focused.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4e1c5e4-aa13-4b0f-8df4-c0bd25758b42"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Milan Office Chair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260313T100107Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>The Milan Office Chair combines sleek design with functionality. Featuring adjustable height, tilt, and armrests, it ensures maximum comfort during long work hours. The breathable mesh back promotes airflow, keeping you cool and focused.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Designed for productivity and poise, the Milan Office Chair exemplifies Forma Lux’s philosophy of intelligent comfort. Its adjustable features—including height, tilt, and armrests—create a customized ergonomic experience, while the breathable mesh back enhances airflow for long hours of focus. Available in Black, Gold, and White, and in Medium, Large, and Extra Large sizes, Milan transforms any workspace into a refined environment of balance, performance, and contemporary design.
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125528Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Silla de Oficina Milan | Forma Lux – Silla de Oficina Ergonómica con Diseño Ajustable
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Una silla de oficina ergonómica moderna con características ajustables
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Silla de Oficina Milan, silla de oficina ergonómica, silla de escritorio ajustable, muebles modernos para espacios de trabajo, silla de oficina de malla, tienda Forma Lux, asientos de oficina de lujo
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 229.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Silla de Oficina Milan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: La Silla de Oficina Milan de Forma Lux fusiona función ergonómica con elegancia moderna. La altura, inclinación y reposabrazos ajustables ofrecen comodidad personalizada, mientras que un respaldo de malla transpirable te mantiene fresco y concentrado.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38fd5956-d46f-43cc-a5a6-4b0049c6f3cd"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Silla de Oficina Milan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T104444Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>La Silla de Oficina Milan combina diseño elegante con funcionalidad. Con altura, inclinación y reposabrazos ajustables, asegura máxima comodidad durante largas horas de trabajo. El respaldo de malla transpirable promueve el flujo de aire, manteniéndote fresco y concentrado.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Diseñada para la productividad y el aplomo, la Silla de Oficina Milan ejemplifica la filosofía de Forma Lux de confort inteligente. Sus características ajustables, que incluyen altura, inclinación y reposabrazos, crean una experiencia ergonómica personalizada, mientras que el respaldo de malla transpirable mejora el flujo de aire para largas horas de concentración. Disponible en Negro, Dorado y Blanco, y en tamaños Mediano, Grande y Extra Grande, Milan transforma cualquier espacio de trabajo en un entorno refinado de equilibrio, rendimiento y diseño contemporáneo.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125528Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Chaise de bureau Milan | Forma Lux – Chaise de bureau ergonomique avec design ajustable
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Une chaise de bureau ergonomique moderne avec des caractéristiques ajustables
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Chaise de bureau Milan, chaise de bureau ergonomique, chaise de bureau ajustable, mobilier de bureau moderne, chaise de bureau en maille, boutique Forma Lux, sièges de bureau de luxe
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 229.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Chaise de bureau Milan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: La chaise de bureau Milan par Forma Lux allie fonction ergonomique et élégance moderne. Hauteur, inclinaison et accoudoirs ajustables offrent un confort personnalisé, tandis qu'un dossier en maille respirante vous garde au frais et concentré.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5b29216-a5d4-48f4-8baa-2506e79d2c3f"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Chaise de bureau Milan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T110254Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>La chaise de bureau Milan combine un design élégant avec fonctionnalité. Dotée de hauteur, inclinaison et accoudoirs ajustables, elle assure un confort maximal pendant de longues heures de travail. Le dossier en maille respirante favorise la circulation de l'air, vous gardant au frais et concentré.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Conçue pour la productivité et l'élégance, la chaise de bureau Milan illustre la philosophie de Forma Lux de confort intelligent. Ses caractéristiques ajustables, y compris la hauteur, l'inclinaison et les accoudoirs, créent une expérience ergonomique personnalisée, tandis que le dossier en maille respirante améliore la circulation de l'air pour de longues heures de concentration. Disponible en noir, or et blanc, et en tailles moyenne, grande et très grande, Milan transforme tout espace de travail en un environnement raffiné d'équilibre, de performance et de design contemporain.
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125528Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Chaise de bureau Milan | Forma Lux – Chaise de bureau ergonomique avec design ajustable
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Une chaise de bureau ergonomique moderne avec des caractéristiques ajustables
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Chaise de bureau Milan, chaise de bureau ergonomique, chaise de bureau ajustable, mobilier de bureau moderne, chaise de bureau en maille, boutique Forma Lux, siège de bureau de luxe
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 229.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Chaise de bureau Milan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: La chaise de bureau Milan de Forma Lux allie fonction ergonomique et élégance moderne. Hauteur, inclinaison et accoudoirs réglables offrent un confort personnalisé, tandis qu'un dossier en maille respirante vous garde au frais et concentré.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "011660cc-0ca9-49de-bb16-6939855f4599"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Chaise de bureau Milan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T104122Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>La chaise de bureau Milan combine design élégant et fonctionnalité. Dotée de hauteur, inclinaison et accoudoirs ajustables, elle assure un confort maximal pendant de longues heures de travail. Le dossier en maille respirante favorise la circulation de l'air, vous gardant au frais et concentré.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Conçue pour la productivité et l'élégance, la chaise de bureau Milan illustre la philosophie de Forma Lux de confort intelligent. Ses caractéristiques ajustables, y compris la hauteur, l'inclinaison et les accoudoirs, créent une expérience ergonomique personnalisée, tandis que le dossier en maille respirante améliore la circulation de l'air pour de longues heures de concentration. Disponible en noir, or et blanc, et en tailles moyenne, grande et extra grande, Milan transforme tout espace de travail en un environnement raffiné d'équilibre, de performance et de design contemporain.

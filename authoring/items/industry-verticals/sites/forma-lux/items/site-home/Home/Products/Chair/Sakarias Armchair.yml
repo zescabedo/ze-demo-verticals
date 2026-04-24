@@ -1,0 +1,325 @@
+﻿---
+ID: "76f9b02f-adcd-4c45-a5da-5047cf157d5e"
+Parent: "8dd59d14-31a7-4b85-a547-77b03c68ac32"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/Chair/Sakarias Armchair"
+SharedFields:
+- ID: "01ea8292-a476-44b5-b883-8841134989ba"
+  Hint: Image5
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79327-LandingPageHero-2000x600?v=67b07f9d" dam-id="8DDqI7dxT-S_jdXGsV9dCg" width="2000" height="600" alt="737656c2eeb8f98032e5e2b9bd9d84137bbf9d6e.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79327/thumbnail" />
+- ID: "4194f0b1-8aac-49c1-8e93-129877fe4c79"
+  Hint: Tags
+  Value: |
+    {AA1D2DC7-47CB-41BE-952D-F19B07B47154}
+    {831305F5-99B0-4746-B09A-42C67FE37EC5}
+    {AC473CFD-491E-4EB1-9D3D-AF5A1F63F10B}
+- ID: "58d111ab-b286-42ab-bb35-8daadd6ab480"
+  Hint: SKU
+  Value: CHR0004
+- ID: "63c1b6e8-05bb-459d-ae43-a7d06951eb25"
+  Hint: ogImage
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79517-HomePageHero-2000x800?v=45234cda" dam-id="H_gcSUJbQpKr2BvPSMZQjA" width="2000" height="800" alt="sakarias-armchair-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79517/thumbnail" />
+- ID: "6d624193-14b5-4076-b1d6-b6cac9888298"
+  Hint: Color
+  Value: |
+    {4644FE16-10A7-44F1-8172-CA03C35A688D}
+    {12BF3FA0-8034-4629-814C-3E34BEE11474}
+- ID: "998ad31d-a023-4c69-8654-9b70de07a7f3"
+  Hint: Size
+  Value: Extra Small
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1668
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/676990cc1a264f95afede460b5601bb3?v=9b6666bd" dam-id="H_gcSUJbQpKr2BvPSMZQjA" width="1400" height="1400" alt="sakarias-armchair-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79517/thumbnail" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{1FDB3CF4-7A25-4D6B-8F8E-993B8143C875}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{8DD59D14-31A7-4B85-A547-77B03C68AC32}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3a00ee0d-8ed8-4a33-ae1a-eb838489dadc"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{19214D33-99C8-4EB0-981D-29CC0DC8BE8B}"
+          s:ds="381203f0-6ee1-4675-b043-c8d4ddbd6b86"
+          s:id="{E874A406-4977-443B-8AFE-690812AFB5EF}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Autoplay&amp;Loop&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-productcontent/related-products-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "76a851db-dff3-4384-b40c-546f228c94c7"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sakarias Armchair
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Sakarias Armchair | Forma Lux – Elegant Armchair with Plush Cushions
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Discover the perfect blend of comfort and style with the Sakarias Armchair. This elegant piece features a sleek design with plush cushions, offering an inviting seat for relaxation. Ideal for any living space, the Sakarias Armchair adds a touch of sophistication to your home decor.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Sakarias Armchair, luxury armchair, modern accent chair, upholstered armchair, living room furniture, comfortable seating, Forma Lux shop, contemporary decor
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 392
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sakarias Armchair
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: The Sakarias Armchair by Forma Lux combines contemporary design with plush comfort. Its sleek silhouette, premium upholstery, and sturdy frame create a sophisticated seating experience for any home.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b3f481c-7f74-42f9-9887-826a8bc0e588"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Sakarias Armchair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260313T100540Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Introducing the Sakarias Armchair, a perfect blend of style and comfort that elevates any living space. Crafted with precision, this armchair features a sleek design that complements both modern and traditional decor. Its sturdy frame and plush cushioning provide exceptional support and relaxation, making it the ideal spot for unwinding after a long day.</p><p>&nbsp;Experience unparalleled luxury with the Sakarias Armchair’s premium upholstery, available in a range of colors to match your personal style. Whether you're enjoying a quiet moment with a book or entertaining guests, this armchair not only meets but exceeds expectations for durability and elegance. The Sakarias Armchair is truly an exquisite addition to any home, offering both aesthetic appeal and practical comfort.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Refined yet welcoming, the Sakarias Armchair embodies Forma Lux’s pursuit of beauty through comfort. Designed with plush cushioning, premium upholstery, and a sleek, supportive frame, it delivers both visual elegance and everyday relaxation. Ideal for modern or traditional interiors, Sakarias transforms any corner into a retreat of calm sophistication. Available in Black and White, and in Extra Small size, it’s an essential piece for those who appreciate craftsmanship, durability, and quiet luxury.
+- Language: "es-ES"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "dc688efe-fb5e-4f5b-a3c3-d77d77b6df20"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sillón Sakarias
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250925T124005Z
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 125
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c0f209e-e007-40e4-8c03-7f3f42cd9c02"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Sakaris Almohada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250926T105517Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Sillón Sakarias | Forma Lux – Sillón elegante con cojines lujosos
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Descubre la combinación perfecta de comodidad y estilo con el Sillón Sakarias. Esta pieza elegante presenta un diseño estilizado con cojines lujosos, ofreciendo un asiento acogedor para la relajación. Ideal para cualquier espacio de vida, el Sillón Sakarias añade un toque de sofisticación a la decoración de tu hogar.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Sillón Sakarias, sillón de lujo, silla moderna de acento, sillón tapizado, muebles de sala, asiento cómodo, tienda Forma Lux, decoración contemporánea
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 392
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sillón Sakarias
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: El Sillón Sakarias de Forma Lux combina diseño contemporáneo con comodidad lujosa. Su silueta elegante, tapicería de primera calidad y estructura resistente crean una experiencia de asiento sofisticada para cualquier hogar.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bb7a5a5-6a71-4162-ada5-ec7c3afc2a8b"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Sillón Sakarias
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T104444Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Presentamos el Sillón Sakarias, una combinación perfecta de estilo y comodidad que eleva cualquier espacio de vida. Elaborado con precisión, este sillón presenta un diseño elegante que complementa tanto la decoración moderna como la tradicional. Su estructura resistente y cojines lujosos proporcionan un soporte y relajación excepcionales, convirtiéndolo en el lugar ideal para descansar después de un largo día.</p><p>&nbsp;Experimenta un lujo inigualable con la tapicería de primera calidad del Sillón Sakarias, disponible en una gama de colores para combinar con tu estilo personal. Ya sea que estés disfrutando de un momento tranquilo con un libro o entreteniendo a los invitados, este sillón no solo cumple sino que supera las expectativas de durabilidad y elegancia. El Sillón Sakarias es verdaderamente una adición exquisita a cualquier hogar, ofreciendo tanto atractivo estético como comodidad práctica.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Refinado pero acogedor, el Sillón Sakarias encarna la búsqueda de Forma Lux de la belleza a través de la comodidad. Diseñado con cojines lujosos, tapicería de primera calidad y un marco elegante y de apoyo, ofrece tanto elegancia visual como relajación diaria. Ideal para interiores modernos o tradicionales, Sakarias transforma cualquier rincón en un refugio de sofisticación tranquila. Disponible en negro y blanco, y en tamaño extra pequeño, es una pieza esencial para aquellos que aprecian la artesanía, la durabilidad y el lujo discreto.
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "27b732c5-e783-46d1-a30a-0b834fcddc83"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fauteuil Sakarias
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Fauteuil Sakarias | Forma Lux – Fauteuil élégant avec coussins moelleux
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Découvrez le mélange parfait de confort et de style avec le fauteuil Sakarias. Cette pièce élégante présente un design épuré avec des coussins moelleux, offrant un siège invitant pour la détente. Idéal pour tout espace de vie, le fauteuil Sakarias ajoute une touche de sophistication à votre décor.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Fauteuil Sakarias, fauteuil de luxe, chaise d'appoint moderne, fauteuil rembourré, mobilier de salon, siège confortable, boutique Forma Lux, décor contemporain
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 392
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fauteuil Sakarias
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Le fauteuil Sakarias de Forma Lux combine un design contemporain avec un confort moelleux. Sa silhouette épurée, son revêtement de qualité supérieure et son cadre robuste créent une expérience d'assise sophistiquée pour toute maison.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "499c2c91-139f-4067-b3a1-87bbe9f738cd"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Fauteuil Sakarias
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T110254Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Découvrez le fauteuil Sakarias, un mélange parfait de style et de confort qui rehausse n'importe quel espace de vie. Conçu avec précision, ce fauteuil présente un design épuré qui complète à la fois les décors modernes et traditionnels. Son cadre robuste et ses coussins moelleux offrent un soutien et une relaxation exceptionnels, faisant de lui l'endroit idéal pour se détendre après une longue journée.</p><p>&nbsp;Découvrez le luxe inégalé du revêtement de qualité supérieure du fauteuil Sakarias, disponible dans une gamme de couleurs pour correspondre à votre style personnel. Que vous profitiez d'un moment de tranquillité avec un livre ou que vous receviez des invités, ce fauteuil non seulement répond mais dépasse les attentes en matière de durabilité et d'élégance. Le fauteuil Sakarias est véritablement une addition exquise à toute maison, offrant à la fois un attrait esthétique et un confort pratique.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Raffiné mais accueillant, le fauteuil Sakarias incarne la quête de Forma Lux pour la beauté à travers le confort. Conçu avec des coussins moelleux, un revêtement de qualité supérieure et un cadre élégant et supportif, il offre à la fois une élégance visuelle et une détente quotidienne. Idéal pour les intérieurs modernes ou traditionnels, Sakarias transforme n'importe quel coin en un havre de sophistication calme. Disponible en noir et blanc, et en taille extra petite, c'est une pièce essentielle pour ceux qui apprécient l'artisanat, la durabilité et le luxe discret.
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250925T123909Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7c060d4-0f94-4cdb-8cb9-682518ce98ec"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250926T081806Z

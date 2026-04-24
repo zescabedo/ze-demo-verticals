@@ -1,0 +1,314 @@
+﻿---
+ID: "861e20cd-4a19-416f-9818-e9ddf8e985d9"
+Parent: "95692043-df4d-4e60-9271-511be5096297"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Products/Pillow/Pilspinnare"
+SharedFields:
+- ID: "01ea8292-a476-44b5-b883-8841134989ba"
+  Hint: Image5
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79556-HomepagePromoCTAs-1100x740?v=2f5c8118" dam-id="MekujoXCQhefmMUrDCfvkw" width="1100" height="740" alt="unsplash_h2_3dL9yLpU.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79556/thumbnail" />
+- ID: "4194f0b1-8aac-49c1-8e93-129877fe4c79"
+  Hint: Tags
+  Value: "{7AFDCBA4-D6AA-4AF4-9CE8-C404256E7702}"
+- ID: "58d111ab-b286-42ab-bb35-8daadd6ab480"
+  Hint: SKU
+  Value: PLW0001
+- ID: "63c1b6e8-05bb-459d-ae43-a7d06951eb25"
+  Hint: ogImage
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79571-HomepagePromoCTAs-1100x740?v=d5454e97" dam-id="q3dLvWH8TyWWkX-AdXVqvA" width="1100" height="740" alt="pilspinnare-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79571/thumbnail" />
+- ID: "6d624193-14b5-4076-b1d6-b6cac9888298"
+  Hint: Color
+  Value: "{12BF3FA0-8034-4629-814C-3E34BEE11474}"
+- ID: "998ad31d-a023-4c69-8654-9b70de07a7f3"
+  Hint: Size
+  Value: |
+    {C593AA0B-B143-4FD4-B8F6-C8950FB744B0}
+    {B8B93775-E47C-46F2-9157-293AA8904883}
+    {B214C2E5-3E1A-42B6-A0EE-CAB3CBC055E0}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/c4d4a93fc7924cff9b9ff3b63bf3791a?v=e31e1096" dam-id="q3dLvWH8TyWWkX-AdXVqvA" width="3469" height="3079" alt="pilspinnare-1.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79571/thumbnail" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3F07D1A5-6CDB-45F0-9123-6DF10EF40846}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{95692043-DF4D-4E60-9271-511BE5096297}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8d1fbaeb-44be-4d19-8266-51cbfff2fdeb"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E7FAEB95-9BC5-45E7-9D99-389A2A9461E6}"
+          s:ds="381203f0-6ee1-4675-b043-c8d4ddbd6b86"
+          s:id="{E874A406-4977-443B-8AFE-690812AFB5EF}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Autoplay&amp;Loop&amp;HideAccentLine&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-productcontent/related-products-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "87fbb78c-c874-4ba8-be36-31b50af065c3"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pilspinnare
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Pilspinnare Pillow | Forma Lux – Soft Cotton Feather Pillow for Restful Sleep
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: A soft cotton pillow with a perfectly plump 90% feather filling. The materials allow air to circulate, so you get a comfortable sleeping environment. The low loft is comfiest for stomach sleepers.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Pilspinnare pillow, feather pillow, cotton pillow, breathable bedding, luxury pillow, stomach sleeper pillow, Forma Lux home decor, sleep comfort
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 15
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Pilspinnare
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d435a00-a152-4da9-89c8-b6eee80c0741"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Pilspinnare
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260313T092432Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: "<p>Discover unparalleled comfort with our premium soft cotton pillow. Each pillow is meticulously crafted with a generous filling composed of 90% high-quality feathers, designed to gently contour to the unique shape of your head and neck. This ensures that you achieve a genuinely restful and uninterrupted sleep.&nbsp;</p><p>The use of breathable materials in its design guarantees exceptional air circulation, keeping the pillow cool and offering a refreshing sleep environment all night long. Tailored with a low loft, this pillow provides ideal support, particularly for stomach sleepers who seek maximum comfort without any added strain on their neck or spine.</p>"
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Engineered for comfort and crafted with care, the Pilspinnare Pillow elevates everyday rest to an experience of quiet luxury. Its soft cotton shell and 90% feather filling offer a perfect balance of plushness and breathability, maintaining a cool, refreshing sleep climate. Designed with a low loft to support stomach sleepers, Pilspinnare reflects Forma Lux’s philosophy of mindful design — where materials, craftsmanship, and comfort converge to create true rest. Available in White, and in Small, Medium, and Large sizes, it’s the finishing touch for a serene modern bedroom.
+- Language: "es-ES"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "fbbadb6b-b196-4ad9-ba66-5cd4b8393227"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pilspinnare
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250925T123957Z
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 10.99
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d069190e-1786-4673-8ce8-259be0fda1f5"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Pilspinnare
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250926T105505Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Almohada Pilspinnare | Forma Lux – Almohada de Plumas de Algodón Suave para un Sueño Reparador
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Una almohada de algodón suave con un relleno perfectamente mullido de 90% plumas. Los materiales permiten que el aire circule, para que obtengas un entorno de sueño cómodo. La baja altura es más cómoda para quienes duermen boca abajo.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: almohada pilspinnare, almohada de plumas, almohada de algodón, ropa de cama transpirable, almohada de lujo, almohada para dormir boca abajo, decoración del hogar Forma Lux, confort del sueño
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 15
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Pilspinnare
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "496cfe71-6736-4ef1-ae35-c0b01c6b1a50"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Pilspinnare
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251219T104435Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Descubre un confort inigualable con nuestra almohada de algodón suave premium. Cada almohada está meticulosamente elaborada con un generoso relleno compuesto por un 90% de plumas de alta calidad, diseñado para contornearse suavemente a la forma única de tu cabeza y cuello. Esto asegura que logres un sueño verdaderamente reparador e ininterrumpido.&nbsp;</p><p>El uso de materiales transpirables en su diseño garantiza una circulación de aire excepcional, manteniendo la almohada fresca y ofreciendo un entorno de sueño refrescante durante toda la noche. Confeccionada con una baja altura, esta almohada proporciona un soporte ideal, particularmente para quienes duermen boca abajo y buscan el máximo confort sin ninguna tensión adicional en el cuello o la columna.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Diseñada para el confort y elaborada con cuidado, la Almohada Pilspinnare eleva el descanso diario a una experiencia de lujo silencioso. Su funda de algodón suave y su relleno de 90% plumas ofrecen un equilibrio perfecto de suavidad y transpirabilidad, manteniendo un clima de sueño fresco y refrescante. Diseñada con una baja altura para apoyar a los que duermen boca abajo, Pilspinnare refleja la filosofía de diseño consciente de Forma Lux, donde los materiales, la artesanía y el confort convergen para crear un verdadero descanso. Disponible en blanco, y en tamaños pequeño, mediano y grande, es el toque final para un dormitorio moderno y sereno.
+- Language: "fr-CA"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "b6688995-bd44-47ed-bb8f-06b7bccb883b"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pilspinnare
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Oreiller Pilspinnare | Forma Lux – Oreiller en plumes de coton doux pour un sommeil réparateur
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Un oreiller en coton doux avec un garnissage parfaitement dodu à 90 % de plumes. Les matériaux permettent à l'air de circuler, vous offrant un environnement de sommeil confortable. La faible épaisseur est la plus confortable pour les dormeurs sur le ventre.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: oreiller Pilspinnare, oreiller en plumes, oreiller en coton, literie respirante, oreiller de luxe, oreiller pour dormeur sur le ventre, décoration intérieure Forma Lux, confort de sommeil
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 15
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Pilspinnare
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca175939-f1d6-481c-ab1c-f00573100abf"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Pilspinnare
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251217T110241Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Découvrez un confort inégalé avec notre oreiller en coton doux de qualité supérieure. Chaque oreiller est méticuleusement fabriqué avec un garnissage généreux composé de 90 % de plumes de haute qualité, conçu pour épouser délicatement la forme unique de votre tête et de votre cou. Cela garantit que vous obtenez un sommeil véritablement reposant et ininterrompu.&nbsp;</p><p>L'utilisation de matériaux respirants dans sa conception garantit une circulation d'air exceptionnelle, gardant l'oreiller frais et offrant un environnement de sommeil rafraîchissant toute la nuit. Conçu avec une faible épaisseur, cet oreiller offre un soutien idéal, en particulier pour les dormeurs sur le ventre qui recherchent un confort maximal sans aucune tension supplémentaire sur leur cou ou leur colonne vertébrale.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Conçu pour le confort et fabriqué avec soin, l'oreiller Pilspinnare élève le repos quotidien à une expérience de luxe discret. Sa housse en coton doux et son garnissage à 90 % de plumes offrent un équilibre parfait entre moelleux et respirabilité, maintenant un climat de sommeil frais et rafraîchissant. Conçu avec une faible épaisseur pour soutenir les dormeurs sur le ventre, Pilspinnare reflète la philosophie de Forma Lux en matière de design réfléchi — où les matériaux, l'artisanat et le confort convergent pour créer un véritable repos. Disponible en blanc, et en tailles petite, moyenne et grande, c'est la touche finale pour une chambre moderne et sereine.
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250925T123903Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b49069a0-fa26-49ac-bf9e-6d51b40e93e4"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250926T081756Z
