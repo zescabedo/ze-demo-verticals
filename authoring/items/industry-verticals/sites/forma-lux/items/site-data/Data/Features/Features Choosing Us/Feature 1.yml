@@ -27,7 +27,7 @@ Languages:
       Value: 20250904T102944Z
     - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
       Hint: FeatureDescription
-      Value: "The advantage of hiring a workspace with us is that gives you comfortable service and all-around facilities."
+      Value: "A dedicated space for NA teams to build and refine regional demo pages, customer stories, and market-specific use cases."
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -38,21 +38,21 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
       Hint: FeatureTitle
-      Value: Luxury Facilities
+      Value: North America
     - ID: "69536d16-4033-4ebf-9416-436f0f5a3cb6"
       Hint: FeatureLink
       Value: |
-        <link linktype="external" url="www.google.com" target="" text="More Info" title="" class=""/>
+        <link linktype="internal" id="a860fcd9-2e8e-4b68-873a-6c57f88c63e0" anchor="" querystring="" target="" class="" text="More Info" title=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a7c2bcc4-7252-49f1-bf52-77c1b73c0a77"
+      Value: "74401683-cc31-47b3-9784-c2111fe8f63b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251002T095600Z
+      Value: 20260617T222520Z
 - Language: "es-ES"
   Versions:
   - Version: 1

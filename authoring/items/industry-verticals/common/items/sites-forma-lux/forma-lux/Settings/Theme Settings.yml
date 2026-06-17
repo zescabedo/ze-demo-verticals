@@ -148,10 +148,26 @@ SharedFields:
     
 - ID: "bd13b584-36a1-4c4e-aa1c-b4689ee2fae8"
   Hint: CustomCSS
-  Value: 
+  Value: |
+    --color-foreground: #1e1e1e;
+    --color-foreground-light: #505050;
+    --color-foreground-muted: #9f9f9f;
+    --color-background: #fff;
+    --color-background-accent: #faf3ea;
+    --color-background-muted: #f7f7f7;
+    --color-background-muted-light: #7a7a7a;
+    --color-background-muted-dark: #666;
+    --color-background-surface: #fafafa;
+    --color-accent: #c1a25f;
+    --color-success: #2ec1ac;
+    --color-danger: #e97171;
+    --color-border: #e8e8e8;
+    --font-heading: 'Manrope', sans-serif;
+    --font-body: 'Manrope', sans-serif;
+    --radius-base: 0.5rem;
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "edf82f42-2620-4023-90a5-6d48025cdcd5"
+  Value: "cc708458-f0d9-4c37-93e8-5915607c74d6"
 - ID: "f4f80dc4-7985-4bba-a11e-4daebba94481"
   Hint: ThemeDefaults
   Value: |
@@ -181,14 +197,14 @@ Languages:
       Value: 20251117T220631Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "524453b4-0b03-44e4-9778-02ad1d53f8d6"
+      Value: "22b0c244-8386-4bde-bc85-408fe80fe9e7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\neli.kostadinova@sitecore.com
+        sitecore\nwJODH9FulTvHuRJZYfvAKUkSMN3m2Ty
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260213T053924Z
+      Value: 20260429T234649Z
 - Language: "es-ES"
   Versions:
   - Version: 1

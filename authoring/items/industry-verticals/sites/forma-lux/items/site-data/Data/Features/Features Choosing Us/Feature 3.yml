@@ -23,7 +23,7 @@ Languages:
       Value: 20250904T103418Z
     - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
       Hint: FeatureDescription
-      Value: We provide many unique work space choices so that you can choose the workspace to your liking.
+      Value: A flexible area for APJ teams to tailor demo pages, regional narratives, and local market stories.
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -38,17 +38,17 @@ Languages:
     - ID: "69536d16-4033-4ebf-9416-436f0f5a3cb6"
       Hint: FeatureLink
       Value: |
-        <link linktype="external" url="www.google.com" target="_blank" text="More Info" title="More Info" anchor=""/>
+        <link linktype="internal" id="61c862fe-3fef-4b47-8d29-26bb3a23047a" anchor="" querystring="" target="" class="" text="More Info" title=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "43b8ec88-cd5b-4272-a0df-7c59eb4eee91"
+      Value: "e7faffea-60b2-465b-bf80-e9430c2cd0f1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251002T095635Z
+      Value: 20260617T222553Z
 - Language: "es-ES"
   Versions:
   - Version: 1
