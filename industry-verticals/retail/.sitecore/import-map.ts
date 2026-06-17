@@ -7,24 +7,25 @@ import {
 } from '@sitecore-content-sdk/nextjs/codegen';
 // end of built-in imports
 
-import { Link, Text, useSitecore, RichText, NextImage, Placeholder, Image as Image_8a80e63291fea86e0744df19113dc44bec187216, CdpHelper, withDatasourceCheck, DateField } from '@sitecore-content-sdk/nextjs';
-import { useMemo, useRef, useState, useEffect, useId, useCallback } from 'react';
+import { useCallback, useEffect, useMemo, useState, useRef, useId } from 'react';
 import React from 'react';
+import { useRouter } from 'next/router';
+import { ArrowLeft, Bot, Loader2, Sparkles, X, ArrowRight, ChevronLeft, ChevronRight, ChevronDown, Heart, Plus, Star, User, Check, LoaderCircle, ShoppingCart, Search, Globe, MoreHorizontal, Home } from 'lucide-react';
+import { cn } from '@/shadcn/lib/utils';
+import { isParamEnabled } from '@/helpers/isParamEnabled';
+import { Link, Text, useSitecore, RichText, NextImage, Placeholder, Image as Image_8a80e63291fea86e0744df19113dc44bec187216, CdpHelper, withDatasourceCheck, DateField } from '@sitecore-content-sdk/nextjs';
 import Head from 'next/head';
 import { useI18n } from 'next-localization';
 import { faFacebookF, faInstagram, faLinkedin, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { FacebookIcon, InstagramIcon, LinkedinIcon, TwitterIcon, YoutubeIcon } from '@/assets/icons/social/social';
-import { isParamEnabled } from '@/helpers/isParamEnabled';
 import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import ProductCarousel from 'src/components/non-sitecore/ProductCarousel';
 import { CommonStyles, LayoutStyles, PromoFlags, HeroBannerStyles } from '@/types/styleFlags';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination, Navigation, A11y, Keyboard } from 'swiper/modules';
-import { ArrowRight, ChevronLeft, ChevronRight, ChevronDown, Heart, Plus, Star, User, X, Check, Loader2, LoaderCircle, ShoppingCart, Search, Globe, MoreHorizontal, Home } from 'lucide-react';
 import Link_a258c208ba01265ca0aa9c7abae745cc7141aa63 from 'next/link';
-import { cn } from '@/shadcn/lib/utils';
-import { useSearchParams, useRouter, usePathname } from 'next/navigation';
+import { useSearchParams, useRouter as useRouter_38d453563358e259e30871f8ef5a0334c186c57e, usePathname } from 'next/navigation';
 import QuestionsAnswers from 'src/components/non-sitecore/search/QuestionsAnswers';
 import SearchResultsWidget from 'src/components/non-sitecore/search/SearchResultsComponent';
 import { SEARCH_WIDGET_ID, HIGHLIGHTED_ARTICLES_RFKID, DEFAULT_IMG_URL, PREVIEW_WIDGET_ID, HOMEHIGHLIGHTED_WIDGET_ID } from '@/constants/search';
@@ -79,7 +80,6 @@ import { useClickAway } from '@/hooks/useClickAway';
 import { useStopResponsiveTransition } from '@/hooks/useStopResponsiveTransition';
 import { extractMediaUrl } from '@/helpers/extractMediaUrl';
 import { getLinkContent, getLinkField, isNavLevel, isNavRootItem, prepareFields } from '@/helpers/navHelpers';
-import { useRouter as useRouter_0e8a928699f624a3ad05eb9c9906b0e7ce1a00be } from 'next/router';
 import { Select as Select_4a7098778d43a9b4dcd5871ec48ea51b5a246850, SelectContent, SelectItem, SelectTrigger, SelectValue } from 'src/shadcn/components/ui/select';
 import { localeOptions } from '@/constants/localeOptions';
 import { generateIndexes } from '@/helpers/generateIndexes';
@@ -93,6 +93,61 @@ import { sortByDateDesc, getCategoryCounts } from '@/helpers/articleUtils';
 
 const importMap = [
   {
+    module: 'react',
+    exports: [
+      { name: 'useCallback', value: useCallback },
+      { name: 'useEffect', value: useEffect },
+      { name: 'useMemo', value: useMemo },
+      { name: 'useState', value: useState },
+      { name: 'useRef', value: useRef },
+      { name: 'useId', value: useId },
+      { name: 'default', value: React },
+    ]
+  },
+  {
+    module: 'next/router',
+    exports: [
+      { name: 'useRouter', value: useRouter },
+    ]
+  },
+  {
+    module: 'lucide-react',
+    exports: [
+      { name: 'ArrowLeft', value: ArrowLeft },
+      { name: 'Bot', value: Bot },
+      { name: 'Loader2', value: Loader2 },
+      { name: 'Sparkles', value: Sparkles },
+      { name: 'X', value: X },
+      { name: 'ArrowRight', value: ArrowRight },
+      { name: 'ChevronLeft', value: ChevronLeft },
+      { name: 'ChevronRight', value: ChevronRight },
+      { name: 'ChevronDown', value: ChevronDown },
+      { name: 'Heart', value: Heart },
+      { name: 'Plus', value: Plus },
+      { name: 'Star', value: Star },
+      { name: 'User', value: User },
+      { name: 'Check', value: Check },
+      { name: 'LoaderCircle', value: LoaderCircle },
+      { name: 'ShoppingCart', value: ShoppingCart },
+      { name: 'Search', value: Search },
+      { name: 'Globe', value: Globe },
+      { name: 'MoreHorizontal', value: MoreHorizontal },
+      { name: 'Home', value: Home },
+    ]
+  },
+  {
+    module: '@/shadcn/lib/utils',
+    exports: [
+      { name: 'cn', value: cn },
+    ]
+  },
+  {
+    module: '@/helpers/isParamEnabled',
+    exports: [
+      { name: 'isParamEnabled', value: isParamEnabled },
+    ]
+  },
+  {
     module: '@sitecore-content-sdk/nextjs',
     exports: [
       { name: 'Link', value: Link },
@@ -105,18 +160,6 @@ const importMap = [
       { name: 'CdpHelper', value: CdpHelper },
       { name: 'withDatasourceCheck', value: withDatasourceCheck },
       { name: 'DateField', value: DateField },
-    ]
-  },
-  {
-    module: 'react',
-    exports: [
-      { name: 'useMemo', value: useMemo },
-      { name: 'useRef', value: useRef },
-      { name: 'useState', value: useState },
-      { name: 'useEffect', value: useEffect },
-      { name: 'useId', value: useId },
-      { name: 'useCallback', value: useCallback },
-      { name: 'default', value: React },
     ]
   },
   {
@@ -158,12 +201,6 @@ const importMap = [
     ]
   },
   {
-    module: '@/helpers/isParamEnabled',
-    exports: [
-      { name: 'isParamEnabled', value: isParamEnabled },
-    ]
-  },
-  {
     module: '@/assets/icons/accent-line/AccentLine',
     exports: [
       { name: 'default', value: AccentLine },
@@ -202,44 +239,16 @@ const importMap = [
     ]
   },
   {
-    module: 'lucide-react',
-    exports: [
-      { name: 'ArrowRight', value: ArrowRight },
-      { name: 'ChevronLeft', value: ChevronLeft },
-      { name: 'ChevronRight', value: ChevronRight },
-      { name: 'ChevronDown', value: ChevronDown },
-      { name: 'Heart', value: Heart },
-      { name: 'Plus', value: Plus },
-      { name: 'Star', value: Star },
-      { name: 'User', value: User },
-      { name: 'X', value: X },
-      { name: 'Check', value: Check },
-      { name: 'Loader2', value: Loader2 },
-      { name: 'LoaderCircle', value: LoaderCircle },
-      { name: 'ShoppingCart', value: ShoppingCart },
-      { name: 'Search', value: Search },
-      { name: 'Globe', value: Globe },
-      { name: 'MoreHorizontal', value: MoreHorizontal },
-      { name: 'Home', value: Home },
-    ]
-  },
-  {
     module: 'next/link',
     exports: [
       { name: 'default', value: Link_a258c208ba01265ca0aa9c7abae745cc7141aa63 },
     ]
   },
   {
-    module: '@/shadcn/lib/utils',
-    exports: [
-      { name: 'cn', value: cn },
-    ]
-  },
-  {
     module: 'next/navigation',
     exports: [
       { name: 'useSearchParams', value: useSearchParams },
-      { name: 'useRouter', value: useRouter },
+      { name: 'useRouter', value: useRouter_38d453563358e259e30871f8ef5a0334c186c57e },
       { name: 'usePathname', value: usePathname },
     ]
   },
@@ -609,12 +618,6 @@ const importMap = [
       { name: 'isNavLevel', value: isNavLevel },
       { name: 'isNavRootItem', value: isNavRootItem },
       { name: 'prepareFields', value: prepareFields },
-    ]
-  },
-  {
-    module: 'next/router',
-    exports: [
-      { name: 'useRouter', value: useRouter_0e8a928699f624a3ad05eb9c9906b0e7ce1a00be },
     ]
   },
   {

@@ -4,6 +4,7 @@ import { BYOCWrapper, NextjsContentSdkComponent, FEaaSWrapper } from '@sitecore-
 import { Form } from '@sitecore-content-sdk/nextjs';
 
 // end of built-in components
+import * as AxpPreviewWidget from 'src/components/AxpPreviewWidget';
 import * as Title from 'src/components/title/Title';
 import * as ThemeEditor from 'src/components/theme-editor/ThemeEditor';
 import * as Subscribe from 'src/components/subscribe/Subscribe';
@@ -58,6 +59,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['BYOCWrapper', BYOCWrapper],
   ['FEaaSWrapper', FEaaSWrapper],
   ['Form', Form],
+  ['AxpPreviewWidget', { ...AxpPreviewWidget }],
   ['Title', { ...Title }],
   ['ThemeEditor', { ...ThemeEditor }],
   ['Subscribe', { ...Subscribe }],

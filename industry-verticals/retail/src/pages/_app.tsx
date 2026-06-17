@@ -1,11 +1,16 @@
 import { JSX } from 'react';
 import type { AppProps } from 'next/app';
+import dynamic from 'next/dynamic';
 import { I18nProvider } from 'next-localization';
 import Bootstrap from 'src/Bootstrap';
 import { SitecorePageProps } from '@sitecore-content-sdk/nextjs';
 import scConfig from 'sitecore.config';
 import 'assets/main.css';
 import { Environment, PageController, WidgetsProvider } from '@sitecore-search/react';
+
+const AxpPreviewWidget = dynamic(() => import('components/AxpPreviewWidget'), {
+  ssr: false,
+});
 
 const SEARCH_CONFIG = {
   env: process.env.NEXT_PUBLIC_SEARCH_ENV,
@@ -43,6 +48,7 @@ function App({ Component, pageProps }: AppProps<SitecorePageProps>): JSX.Element
           publicSuffix={true}
         >
           <Component {...rest} />
+          <AxpPreviewWidget />
         </WidgetsProvider>
       </I18nProvider>
     </>
