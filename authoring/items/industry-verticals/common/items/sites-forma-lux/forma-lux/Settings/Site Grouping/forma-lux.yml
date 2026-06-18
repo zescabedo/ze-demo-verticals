@@ -31,7 +31,7 @@ SharedFields:
   Value: 1
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: *
+  Value: formalux.org
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
   Value: "en=forma-lux"
@@ -46,10 +46,10 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b4e1bd0b-c2f9-49a7-8b5b-ac9f9cb5cc30"
+  Value: "4a38711a-bef9-4fd0-9b23-e0111e026ea1"
 - ID: "e5b5ccb5-17a1-429d-bd3e-6122b3216e52"
   Hint: TargetHostName
-  Value: 
+  Value: formalux.org
 - ID: "f19277fe-1b85-4b0a-8c26-5e74d766b3a3"
   Hint: Language
   Value: en
@@ -77,14 +77,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3c6661e8-eb24-4ced-82a7-9628274dc7cb"
+      Value: "70dbc176-bdb1-4ab5-ac32-9096d65b2265"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260424T165917Z
+      Value: 20260618T170037Z
 - Language: "es-ES"
   Versions:
   - Version: 1

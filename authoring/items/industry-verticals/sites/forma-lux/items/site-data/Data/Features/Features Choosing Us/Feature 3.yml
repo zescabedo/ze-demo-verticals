@@ -34,21 +34,21 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
       Hint: FeatureTitle
-      Value: Many Choices
+      Value: APJ
     - ID: "69536d16-4033-4ebf-9416-436f0f5a3cb6"
       Hint: FeatureLink
       Value: |
         <link linktype="internal" id="61c862fe-3fef-4b47-8d29-26bb3a23047a" anchor="" querystring="" target="" class="" text="More Info" title=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e7faffea-60b2-465b-bf80-e9430c2cd0f1"
+      Value: "1e844e4b-df93-4aa0-a25b-9231bd27037f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T222553Z
+      Value: 20260618T172000Z
 - Language: "es-ES"
   Versions:
   - Version: 1

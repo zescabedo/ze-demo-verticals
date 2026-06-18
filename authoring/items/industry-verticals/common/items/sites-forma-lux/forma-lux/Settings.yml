@@ -11,6 +11,9 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "1864e99d-c29a-40bf-96e0-b3e7896a013b"
+  Hint: UseLanguageSpecificLayout
+  Value: 
 - ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
   Hint: RouteTemplateName
   Value: Settings Route
@@ -26,6 +29,23 @@ SharedFields:
 - ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
   Hint: PlaceholdersPath
   Value: "{18FD624C-9E2D-41B4-9F08-B420B71717F2}"
+- ID: "64971fa7-f8ac-4c88-9bb2-2949f2a28670"
+  Hint: RobotsContent
+  Value: |
+    User-agent: *
+    Allow: /
+    
+    User-agent: Scrunchbot
+    Allow: /
+    
+    User-agent: ScrunchAI-testbot
+    Allow: /
+    
+    User-agent: ChatGPT-User
+    Allow: /
+    
+    User-agent: Chrome
+    Allow: /
 - ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
   Hint: FilesystemPath
   Value: "/dist/forma-lux"
@@ -49,7 +69,7 @@ SharedFields:
   Value: af58419145c9420187405409f4cf8bdd|e28229459ebe42c2956ace34ddc847bf|18959c3876954d4e8475a37a226b5e49
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9f62d540-ad0f-4930-85ea-a4d7a7241ad2"
+  Value: "450f8899-e0f1-4854-b3bc-4321c4c725ca"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
   Value: "{5FDD8C61-B5A8-4F0C-B855-5ED157ED470D}"
@@ -77,14 +97,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b7870af4-d3dd-4e36-9fbe-a190938a6818"
+      Value: "80fdfe4c-3897-4076-be53-89e89dad9205"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251222T142508Z
+      Value: 20260618T171549Z
 - Language: "es-ES"
   Versions:
   - Version: 1
