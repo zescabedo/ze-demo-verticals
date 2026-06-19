@@ -2,7 +2,7 @@
 ID: "95c9f75a-3c3c-4a13-933b-cc4931ec39ec"
 Parent: "4e869961-efef-4b47-bb69-170a251d689b"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/EMEA"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/emea"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -55,6 +55,13 @@ SharedFields:
     </r>
 Languages:
 - Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "d6b8e64a-61fe-4387-aea8-621f0c35e750"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: EMEA
   Versions:
   - Version: 1
     Fields:
@@ -89,7 +96,7 @@ Languages:
       Value: Discover Forma Lux articles on interiors, materials, and modern craftsmanship.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "86adb1e5-4743-4b56-858d-6b0e7788297e"
+      Value: "e5784c66-6c4d-43a0-885d-0b30b7d27d1b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -99,7 +106,7 @@ Languages:
       Value: Ideas and inspiration from the Forma Lux Journal—on design, materials, and living well.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221849Z
+      Value: 20260618T233408Z
 - Language: "es-ES"
   Versions:
   - Version: 1

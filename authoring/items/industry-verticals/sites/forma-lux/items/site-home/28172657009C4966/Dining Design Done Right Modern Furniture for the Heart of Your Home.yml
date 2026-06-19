@@ -1,8 +1,8 @@
 ﻿---
-ID: "d78ff1d6-e8df-4445-b26e-ce448cffef7a"
-Parent: "a860fcd9-2e8e-4b68-873a-6c57f88c63e0"
+ID: "e48f6efb-4f6b-4dd0-8b2c-c106bf1b950f"
+Parent: "95c9f75a-3c3c-4a13-933b-cc4931ec39ec"
 Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/NorthAmerica/Dining Design Done Right Modern Furniture for the Heart of Your Home"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/emea/Dining Design Done Right Modern Furniture for the Heart of Your Home"
 SharedFields:
 - ID: "61dfb6ba-1cd3-42ec-97d7-75ca2522920c"
   Hint: ogImage
@@ -15,7 +15,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{203E9D47-CE18-49B3-970E-783008D77EDB}" />
+    <image mediaid="{A1E18724-ABE8-4B4B-A8D5-AADE4BB9C454}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "013ce8b3-7616-4298-af58-a4e28d264d42"
@@ -65,7 +65,7 @@ Languages:
       Value: "Dining is more than meals—it’s shaping memories. Start with a table that suits your space: clean lines, durable material, room for expansion. Pair with chairs that are comfortable but defined—slim profiles, quality upholstery or shell material. Lighting should hover at 30-36” above the table for optimal ambiance. Add a rug to anchor the area and soften acoustics. For accessories: keep it minimal—a sculptural bowl, a simple runner, a piece of art—but meaningful. The goal: a modern dining space that says “come together” whether it’s family pizza night or dinner for six with friends."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "54bdf698-8b70-452a-b805-a896b1c58b62"
+      Value: "839683f9-7f7a-433a-abc1-927edb8a0e0d"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
       Value: "Dining Design Done Right: Modern Furniture for the Heart of Your Home"
@@ -75,7 +75,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221757Z
+      Value: 20260617T221818Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: Dining Design Done Right Modern Furniture for the Heart of Your Home
@@ -127,7 +127,7 @@ Languages:
         Comer es más que comidas: es crear recuerdos. Comienza con una mesa que se adapte a tu espacio: líneas limpias, material duradero, espacio para expansión. Combina con sillas que sean cómodas pero definidas: perfiles delgados, tapicería de calidad o material de concha. La iluminación debe estar a 30-36” sobre la mesa para una atmósfera óptima. Añade una alfombra para anclar el área y suavizar la acústica. Para los accesorios: mantenlo minimalista—un cuenco escultórico, un camino de mesa simple, una obra de arte—pero significativo. El objetivo: un espacio de comedor moderno que diga "reunirse" ya sea noche de pizza en familia o cena para seis con amigos.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9906b861-c49d-44f4-8e3c-60fc70d6ba9a"
+      Value: "42ad7c6f-a62a-4a26-929c-059fb1fa5b5f"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -140,7 +140,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221757Z
+      Value: 20260617T221819Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: Diseño de Comedor Bien Hecho Muebles Modernos para el Corazón de Tu Hogar
@@ -193,7 +193,7 @@ Languages:
         Le repas est plus qu'un simple repas—c'est créer des souvenirs. Commencez par une table qui convient à votre espace : lignes épurées, matériau durable, espace pour l'extension. Associez-la à des chaises confortables mais définies—profils minces, revêtement de qualité ou matériau de coque. L'éclairage doit être suspendu à 30-36” au-dessus de la table pour une ambiance optimale. Ajoutez un tapis pour ancrer la zone et adoucir l'acoustique. Pour les accessoires : restez minimaliste—un bol sculptural, un chemin de table simple, une œuvre d'art—mais significatif. L'objectif : un espace de salle à manger moderne qui dit "rassemblez-vous" que ce soit pour une soirée pizza en famille ou un dîner pour six avec des amis.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "62f853cd-bb80-4f40-b9ad-d424847c213c"
+      Value: "afa7c7b9-1ff0-4fcf-ad13-aadd29129cf0"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -206,7 +206,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221757Z
+      Value: 20260617T221819Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: Conception de salle à manger bien faite Meubles modernes pour le cœur de votre maison
@@ -258,7 +258,7 @@ Languages:
         Dîner, c'est plus que des repas—c'est créer des souvenirs. Commencez par une table qui convient à votre espace : lignes épurées, matériau durable, espace pour l'extension. Associez-la à des chaises confortables mais définies—profils minces, revêtement de qualité ou matériau de coque. L'éclairage doit être suspendu à 30-36” au-dessus de la table pour une ambiance optimale. Ajoutez un tapis pour ancrer la zone et adoucir l'acoustique. Pour les accessoires : restez minimaliste—un bol sculptural, un chemin de table simple, une œuvre d'art—mais significatif. L'objectif : un espace de salle à manger moderne qui dit "rassemblez-vous" que ce soit pour une soirée pizza en famille ou un dîner pour six avec des amis.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9ef81e30-4ae4-4aab-a3fb-83c513eb4f69"
+      Value: "a8833232-7108-4310-99a7-b8eba3af7655"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -271,7 +271,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221757Z
+      Value: 20260617T221818Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: Conception de salle à manger bien faite Meubles modernes pour le cœur de votre maison

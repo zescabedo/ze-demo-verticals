@@ -2,7 +2,7 @@
 ID: "f3c8de10-4ba9-4537-9987-7c551f6ca684"
 Parent: "95c9f75a-3c3c-4a13-933b-cc4931ec39ec"
 Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/EMEA/Sustainable Style"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/emea/sustainable style"
 SharedFields:
 - ID: "61dfb6ba-1cd3-42ec-97d7-75ca2522920c"
   Hint: ogImage

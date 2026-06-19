@@ -1,8 +1,8 @@
 ﻿---
-ID: "8ec7bc11-7cbf-4329-9c5a-9e4fb007ba95"
-Parent: "61c862fe-3fef-4b47-8d29-26bb3a23047a"
+ID: "f060edaa-d502-41ef-9606-2713c0545928"
+Parent: "95c9f75a-3c3c-4a13-933b-cc4931ec39ec"
 Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
-Path: "/sitecore/content/industry-verticals/forma-lux/Home/APJ/The Work-From-Home Upgrade"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/emea/the work from home upgrade"
 SharedFields:
 - ID: "61dfb6ba-1cd3-42ec-97d7-75ca2522920c"
   Hint: ogImage
@@ -15,7 +15,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{AD884BB8-94E3-4354-B710-86E8107AB74E}" />
+    <image mediaid="{C6346734-9A0A-454E-909A-E8D2826FDF08}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "423840b7-b0d9-4579-8789-652153e6ce1b"
@@ -63,7 +63,7 @@ Languages:
       Value: Create a modern home office that blends style and productivity. Discover tips for ergonomic chairs, sleek desks, smart storage, natural lighting, and minimal accessories for a calm, uncluttered workspace.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "100c5b6b-cd48-4cbf-9f9e-1a3eace0ba88"
+      Value: "d664bcda-c6c0-46a0-8a9f-bf3815d5a4b9"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
       Value: "The Work-From-Home Upgrade: Designing a Modern Home Office That Inspires"
@@ -73,7 +73,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221827Z
+      Value: 20260617T221822Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: "Modern Home Office Design: Stylish, Functional, and Focused"
@@ -123,7 +123,7 @@ Languages:
       Value: Crea una oficina en casa moderna que combine estilo y productividad. Descubre consejos para sillas ergonómicas, escritorios elegantes, almacenamiento inteligente, iluminación natural y accesorios mínimos para un espacio de trabajo tranquilo y ordenado.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "52bc0b32-72dc-45ca-8e32-2c4bb793e30a"
+      Value: "21048f20-e1c2-486c-9b6e-8e41572c2962"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -136,7 +136,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221827Z
+      Value: 20260617T221822Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: "Diseño de oficina en casa moderna: Estilosa, funcional y enfocada"
@@ -186,7 +186,7 @@ Languages:
       Value: Créez un bureau à domicile moderne qui allie style et productivité. Découvrez des conseils pour des chaises ergonomiques, des bureaux élégants, un rangement intelligent, un éclairage naturel et des accessoires minimalistes pour un espace de travail calme et dégagé.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5a6a01a5-539e-4882-bb89-35d3b21a8a1e"
+      Value: "acaa8faf-42db-45fd-a5bd-903838279baf"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -199,7 +199,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221827Z
+      Value: 20260617T221822Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: "Conception de bureau à domicile moderne : élégant, fonctionnel et concentré"
@@ -249,7 +249,7 @@ Languages:
       Value: Créez un bureau à domicile moderne qui allie style et productivité. Découvrez des conseils pour des chaises ergonomiques, des bureaux élégants, un rangement intelligent, un éclairage naturel et des accessoires minimalistes pour un espace de travail calme et épuré.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "510ad83c-1b74-43cc-bf41-ea942d76d990"
+      Value: "c3efe463-4d44-4fbe-911e-7661f83458ad"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -262,7 +262,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260617T221827Z
+      Value: 20260617T221822Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: "Conception de bureau à domicile moderne : élégant, fonctionnel et concentré"
